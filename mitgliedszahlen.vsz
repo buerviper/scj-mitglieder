@@ -1,5 +1,5 @@
 # Veusz saved document (version 3.5.3)
-# Saved at 2023-01-10T15:12:25.118361
+# Saved at 2023-01-10T16:48:19.079974
 
 SetCompatLevel(1)
 AddImportPath('/home/matze/Dokumente/GitHub/scj-mitglieder')
@@ -75,7 +75,7 @@ Set('MinorTicks/hide', True)
 To('..')
 Add('xy', name='xy1', autoadd=False)
 To('xy1')
-Set('color', '#BB5566')
+Set('color', '#EE7733')
 Set('xData', 'jahr')
 Set('yData', 'm')
 Set('key', 'männlich')
@@ -95,7 +95,6 @@ To('..')
 Add('axis-broken', name='axis-broken1', autoadd=False)
 To('axis-broken1')
 Set('label', 'Mitgliedsuasweise')
-Set('max', 350.0)
 Set('breakPoints', [80.0, 200.0])
 Set('direction', 'vertical')
 Set('MajorTicks/number', 3)
